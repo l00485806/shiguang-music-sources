@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-25",
+  "sources": [
+    {
+      "name": "1010🎵音源",
+      "version": "1.1.0",
+      "file": "ten.js",
+      "length": 17198
+    },
+    {
+      "name": "杰翔聚合音源",
+      "version": "2.3.0",
+      "file": "jiexiang.js",
+      "length": 88211
+    },
+    {
+      "name": "墨澜聚合音源",
+      "version": "2.3.4",
+      "file": "molan.js",
+      "length": 130115
+    },
+    {
+      "name": "星海音乐源",
+      "version": "v3.2.15",
+      "file": "xinghai.js",
+      "length": 37958
+    },
+    {
+      "name": "全豆要[聚合音源]",
+      "version": "9.3 93特供版 DeepSeek优化",
+      "file": "qdy.js",
+      "length": 28834
+    }
+  ]
+}
